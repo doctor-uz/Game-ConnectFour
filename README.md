@@ -1,3 +1,7 @@
+# You can play my version of the game [here](https://doctor-uz.github.io/).
+
+
+
 # Connect Four
 
 The [Connect Four](https://www.youtube.com/watch?v=KN3nohBw_CE) - the vertical checkers game.
@@ -16,4 +20,3 @@ Game can look and work however you like but it must follow these basic rules.
 
 
 
-#### My [solution](https://doctor-uz.github.io/).
